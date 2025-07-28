@@ -1,0 +1,22 @@
+{
+    "name": "meta-front-end-coursera",
+    "version": "1.0.0",
+    "description": "All Completed Assignments & Projects From Meta's Front-End Developer Course on Coursera.",
+    "main": "/",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+"
+    },
+    "author": "Ayush Jha",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://ayushjha.co.in"
+    },
+    "homepage": "https://ayushjha.co.in",
+    "dependencies": {
+        "jest": "^28.1.3"
+    }
+}

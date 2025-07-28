@@ -8,12 +8,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+"
+        "url": "git+https://github.com/ayushdebugz/meta-front-end-coursera.git"
     },
     "author": "Ayush Jha",
     "license": "MIT",
     "bugs": {
-        "url": "https://ayushjha.co.in"
+        "url": "https://github.com/ayushdebugz/meta-front-end-coursera/issues"
     },
     "homepage": "https://ayushjha.co.in",
     "dependencies": {

@@ -1,6 +1,10 @@
-# Meta Front-End Developer Professional Certificate
+# Meta Front-End Developer Professional Certificate 
+# Quiz, Labs, Assignments & CapStone Project
 
 ![master_head](/master_head.png)
+
+## [META FRONT-END DEVELOPER PROFESSIONAL CERTIFICATE ] ()
+### [Certificate Of Completion](https://coursera.org/share/3e55f3b518e90427cb33b2c4ca67a405)
 
 ## Course 1 : [Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development)
 
@@ -273,5 +277,4 @@
 
 <br/>
 
-## [META FRONT-END DEVELOPER CERTIFICATION FINAL] ()
-### [Certificate Of Completion](https://coursera.org/share/3e55f3b518e90427cb33b2c4ca67a405)
+# END

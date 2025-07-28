@@ -2,7 +2,7 @@
 
 ![master_head](/master_head.png)
 
-Contains All Quiz, Labs, Assignments & CapStone Project. ENJOY!
+Contains Quiz, Labs, Assignments & CapStone Project. ENJOY!
 
 ## META FRONT-END DEVELOPER PROFESSIONAL CERTIFICATE
 ### [Certificate Of Completion](https://coursera.org/share/3e55f3b518e90427cb33b2c4ca67a405)
